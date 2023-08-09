@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.imgContainer {
+    position: absolute;
+    padding-left: 30%;
+}
+
+.imgContainer img {
+    margin: 5px;
+}
+
+img {
+    border-radius: 5%;
+    position: relative;
+}
+
+img:hover {
+    width: 220px;
+    height: 220px;
+    border: solid gray;
+box-shadow: 10px 5px 5px black;
+transition:500ms;
+}
+
+p{
+    text-align: center;
+}
+
+h2{ 
+    text-align: center;
+}
+
+.content{
+    margin: 300px;
+}
+body {
+    background-size: cover;
+    background: linear-gradient(rgb(255, 255, 255, 1), rgb(71, 71, 71, 0.7)), url(https://encurtador.com.br/xCH08);
+    background-position: center center;
+    background-size: cover;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+  }
+  .Container {
+    margin: 0px auto;
+    padding: 0%;
+    text-align: center;
+  }
